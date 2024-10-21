@@ -62,7 +62,7 @@ button {
 }
 
 button:hover {
-  background-color: #e2c502;
+  background-color: #e2c402fa;
 }
 
 button:focus {
